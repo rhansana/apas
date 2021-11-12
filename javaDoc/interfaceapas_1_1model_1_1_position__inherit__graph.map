@@ -1,0 +1,5 @@
+<map id="apas.model.Position" name="apas.model.Position">
+<area shape="rect" id="node1" title=" " alt="" coords="110,5,265,32"/>
+<area shape="rect" id="node2" href="$classapas_1_1model_1_1_movement.html" title=" " alt="" coords="5,80,177,107"/>
+<area shape="rect" id="node3" href="$classapas_1_1model_1_1_way_point.html" title=" " alt="" coords="202,80,365,107"/>
+</map>
